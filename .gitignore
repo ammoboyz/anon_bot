@@ -1,0 +1,6 @@
+__pycache__/
+.env
+.vscode
+user_ids.txt
+pg_data
+pgadmin_data
